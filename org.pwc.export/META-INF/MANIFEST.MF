@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ADMS-AP Exporter
+Bundle-SymbolicName: org.pwc.export;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: PricewaterhouseCoopers
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ com.archimatetool.editor
